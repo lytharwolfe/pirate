@@ -44,7 +44,7 @@ RaceList["Au'Ra, Xaela"] = {
 	speed : {
 			walk : { spd : 30, enc : 20 }
 	},
-	skills : ["Perception, Survival"],
+	skills : ["Perception", "Survival"],
 	languageProfs : ["Common", "Auri"],
 	age : " live about as long as any of the other races of Eorzea, reaching physical maturity around the age of 16, and living to be around 80 years old.",
 	height : " males range from 6'6\" to 7', while females rarely grow higher than 5' in height.",
@@ -63,7 +63,7 @@ RaceList["Au'Ra, Raen"] = {
 	speed : {
 			walk : { spd : 30, enc : 20 }
 	},
-	skills : ["Perception, Persuasion"],
+	skills : ["Perception", "Persuasion"],
 	languageProfs : ["Common", "Auri"],
 	savetxt : {
 		adv_vs : ["charmed"]
