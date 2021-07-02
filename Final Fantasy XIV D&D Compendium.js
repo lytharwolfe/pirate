@@ -36,7 +36,7 @@ SourceList.FFXIV = {
 
 // Au'Ra
 RaceList["Xaela Au'Ra"] = {
-	regExpSearch : /Xaela Au'Ra/i,
+	regExpSearch : /Xaela Au'Ra/i
 	name : "Xaela Au'Ra",
 	source : [["FFXIV", 5]],
 	plural : "Au'Ra",
@@ -56,7 +56,7 @@ RaceList["Xaela Au'Ra"] = {
 };
 
 RaceList["Raen Au'Ra"] = {
-	regExpSearch : /Raen Au'Ra/i,
+	regExpSearch : /Raen Au'Ra/i
 	name : "Raen Au'Ra",
 	source : [["FFXIV", 5]],
 	plural : "Au'Ra",
