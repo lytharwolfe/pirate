@@ -35,11 +35,12 @@ SourceList.FFXIV = {
 };
 
 // Au'Ra
-RaceList["Au'Ra, Xaela"] = {
-	regExpSearch : /Au'Ra, Xaela/i,
+RaceList["Xaela Au'Ra"] = {
+	regExpSearch : /Xaela Au'Ra/i,
 	name : "Xaela Au'Ra",
 	source : [["FFXIV", 5]],
 	plural : "Au'Ra",
+	sortname : "Au'ra, Xaela",
 	size : 3,
 	speed : {
 			walk : { spd : 30, enc : 20 }
@@ -54,11 +55,12 @@ RaceList["Au'Ra, Xaela"] = {
 	trait : "Savage Attacks. When I score a critical hit with a melee weapon attack, I can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.",
 };
 
-RaceList["Au'Ra, Raen"] = {
-	regExpSearch : /Au'Ra, Raen/i,
+RaceList["Raen, Au'Ra"] = {
+	regExpSearch : /Raen Au'Ra/i,
 	name : "Raen Au'Ra",
 	source : [["FFXIV", 5]],
 	plural : "Au'Ra",
+	sortname : "Au'ra, Raen",
 	size : 3,
 	speed : {
 			walk : { spd : 30, enc : 20 }
