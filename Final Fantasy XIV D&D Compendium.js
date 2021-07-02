@@ -55,7 +55,7 @@ RaceList["Xaela Au'Ra"] = {
 	trait : "Savage Attacks. When I score a critical hit with a melee weapon attack, I can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.",
 };
 
-RaceList["Raen, Au'Ra"] = {
+RaceList["Raen Au'Ra"] = {
 	regExpSearch : /Raen Au'Ra/i,
 	name : "Raen Au'Ra",
 	source : [["FFXIV", 5]],
